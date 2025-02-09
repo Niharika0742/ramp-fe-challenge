@@ -1,0 +1,3 @@
+In InputSelect/index.tsx add the line `htmlFor={inputId}` to selct the checkbox
+In App.tsx removes button when there's no more data to show
+In hooks/usePaginatedTransactions.ts  concanetadwith the previous data rather than replacing it.
